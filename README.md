@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey, I'm Chirag
+👋 
+
+Hi there! I'm Chirag
 
 Software Engineer at [HubSpot](https://hubspot.com) working on developer tooling and CLI infrastructure.
 
