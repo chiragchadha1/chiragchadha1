@@ -13,25 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋
+# 👋 Hi there! I'm Chirag
 
-Hi there! I'm Chirag, a software engineer passionate about entrepreneurship, driving impactful innovation, and creating exceptional user experiences.
+I'm a Software Engineer at [HubSpot](https://hubspot.com) on the Developer Experience Frontend team, where I focus on CLI tools and local development infrastructure that help developers ship better code, faster.
 
-At [HubSpot](https://hubspot.com), I led engineering enhancements in user interfaces and backend services using Python, Java, and TypeScript, significantly boosting system functionality and user engagement. I fostered a collaborative team environment by mentoring and conducting technical workshops on efficient front-end debugging.
+## 💡 What I'm Passionate About
 
-Beyond my technical roles, I've undertaken diverse leadership positions that have honed my creative problem-solving abilities:
+- **Developer Experience**: Building tools that streamline workflows and make developers' lives easier
+- **Cross-App Integration**: Exploring ways to connect data across platforms to surface meaningful insights
+- **Automation**: Finding opportunities to optimize everyday workflows through smart tooling
+- **Entrepreneurship**: Creating innovative solutions that solve real problems
 
-- 🥳 Engagement Director at [Generate](https://generatenu.com), spearheading initiatives encompassing student engagement, external relations, marketing, and content creation.
-- 👔 CEO/Founder of [defye](https://defye.us), a digital design agency where I lead strategic operations and innovative client solutions.
-- 🚀 Project Lead for Couplet, pioneering a groundbreaking mobile app that redefines social networking through shared interests in local events.
-- 🎨 Content Lead at Generate, driving a successful rebranding campaign and digital strategy, garnering over 103,773 impressions.
-- 💻 Front-End Developer at [VUE Health](https://vuehealth.com), crafting responsive websites for top healthcare brands, championing accessibility and user-centered design.
-- 🤩 Co-Director of Engage at the [Entrepreneurs Club]([url](https://www.nuentrepreneursclub.com/)), designing and delivering high-impact entrepreneurship workshops and securing high-profile speakers.
+## 💼 Background
 
----
+I bring a unique blend of technical expertise and entrepreneurial experience:
 
-I thrive on tackling complex challenges, blending technical expertise with creative problem-solving to deliver exceptional results. My passion lies in leveraging technology to create engaging experiences and drive meaningful impact.
+- **HubSpot** - Developer Experience Frontend Engineer, focusing on CLI tooling and local dev infrastructure
+- **defye** - Founder/CEO of a digital design agency delivering innovative client solutions
+- **CopComp** - Co-founded a computer parts startup
+- **VUE Health** - Front-End Developer crafting accessible, responsive healthcare websites
+- **Generate Product Development** - Engagement Director and Content Lead, driving student engagement and successful rebranding campaigns
+- **Northeastern University** - Recent graduate with hands-on experience in full-stack development
 
-Beyond my professional endeavors, I’m interested in aesthetic designs, sneakers, electronic dance music (EDM), photography, mindfulness, self-care, science-fiction movies, travel, and weightlifting. 
+## 🛠️ Technical Interests
 
-Feel free to connect via my [LinkedIn](https://www.linkedin.com/in/chiragkchadha/)! 🤝
+- Developer tooling and CLI design
+- Frontend infrastructure and build systems
+- Browser automation and productivity tools
+- Data integration and analytics
+- TypeScript, Python, Java
+
+## 🎯 Beyond Code
+
+When I'm not building software, you'll find me:
+- 🎵 Exploring NYC's EDM scene
+- 🏋️ Powerlifting
+- 🍽️ Working through my Beli list
+- 🚀 Following emerging AI and startup trends
+- 📸 Photography and aesthetic design
+
+## 📫 Let's Connect
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chiragkchadha/)! Always happy to chat about productivity/developer tools, startups, or the best spots in NYC.
